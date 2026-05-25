@@ -1,0 +1,21 @@
+{
+  "name": "RavenHawk Category Showcase",
+  "slug": "ravenhawk-category-showcase",
+  "version": "2.1.0",
+  "build": "editable-colors",
+  "release_title": "RavenHawk Category Showcase v2.1.0",
+  "download_url": "https://github.com/RavenHawkTech/wordpress-category-showcase/releases/download/ravenhawk-category-showcase-v2.1.0/ravenhawk-category-showcase.zip",
+  "homepage": "https://github.com/RavenHawkTech/wordpress-category-showcase",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "8.0",
+  "last_updated": "2026-05-24",
+  "author": "RavenHawkTech",
+  "author_profile": "https://ravenhawktech.com",
+  "sha256": "a2ed4e32411328aaa6b6ee6a3549bb5dc165f42fb983e20ddb042e1f2550af87",
+  "sections": {
+    "description": "Displays a styled WordPress category showcase with shortcode support, optional blog-page insertion, and editable color controls. Visit https://ravenhawktech.com for RavenHawkTech.",
+    "installation": "Upload the plugin ZIP in WordPress and activate it. Open RavenHawkTech → Category Showcase to configure display and color settings.",
+    "changelog": "<h4>2.1.0</h4><ul><li>Added editable color controls for the category showcase.</li><li>Added editable border radius controls.</li><li>Converted showcase styling to CSS variables backed by WordPress options.</li><li>Preserved shortcode, category display, auto-insert, and RavenHawkTech admin menu behavior.</li></ul><h4>2.0.0</h4><ul><li>Moved plugin admin navigation under the RavenHawkTech parent menu.</li><li>Added RavenHawkTech admin menu and heading icons.</li><li>Updated plugin metadata and description for the RavenHawkTech plugin family.</li></ul>"
+  }
+}
