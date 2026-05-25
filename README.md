@@ -51,7 +51,7 @@ This repository tracks the plugin package instead of the extracted plugin source
 ├─ COPYRIGHT.md
 ├─ .gitignore
 ├─ releases/
-│  └─ ravenhawk-category-showcase-2.1.0-editable-colors.zip
+│  └─ ravenhawk-category-showcase.zip
 └─ updates/
    └─ ravenhawk-category-showcase.json
 ```
