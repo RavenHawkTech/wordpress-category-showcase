@@ -2,15 +2,11 @@
 
 Custom WordPress plugin that replaces plain category links with a styled, responsive category showcase.
 
-This repository contains the standalone RavenHawk Category Showcase plugin source, update manifest, release package location, and repository documentation for RavenHawkTech.
-
----
+This repository contains the RavenHawk Category Showcase plugin package, update manifest, and repository documentation for RavenHawkTech.
 
 ## Current Version
 
 **v2.1.0**
-
----
 
 ## Features
 
@@ -21,8 +17,6 @@ This repository contains the standalone RavenHawk Category Showcase plugin sourc
 - RavenHawkTech admin menu grouping
 - Editable color and border-radius controls in WordPress Admin
 - GitHub manifest-based update metadata
-
----
 
 ## Shortcode
 
@@ -36,8 +30,6 @@ Example:
 [ravenhawk_category_showcase limit="8" show_counts="true" show_descriptions="true"]
 ```
 
----
-
 ## Admin Settings
 
 Open:
@@ -46,18 +38,11 @@ Open:
 RavenHawkTech → Category Showcase
 ```
 
-Settings include:
-
-- Auto-add to blog page
-- Accent colors
-- Background colors
-- Card colors
-- Text colors
-- Border radius controls
-
----
+Settings include auto-add to blog page, accent colors, background colors, card colors, text colors, and border radius controls.
 
 ## Repository Structure
+
+This repository tracks the plugin package instead of the extracted plugin source files.
 
 ```text
 /
@@ -65,42 +50,26 @@ Settings include:
 ├─ SECURITY.md
 ├─ COPYRIGHT.md
 ├─ .gitignore
-├─ plugins/
-│  └─ ravenhawk-category-showcase/
-│     ├─ ravenhawk-category-showcase.php
-│     ├─ README.md
-│     └─ assets/
-│        ├─ ravenhawk-category-showcase.css
-│        ├─ rht-admin-icon.png
-│        ├─ rht-admin-icon-128.png
-│        ├─ rht-admin-menu-icon.png
-│        └─ rht-admin-heading-icon.png
 ├─ releases/
 │  └─ ravenhawk-category-showcase-2.1.0-editable-colors.zip
 └─ updates/
    └─ ravenhawk-category-showcase.json
 ```
 
----
+The package contains the full WordPress plugin folder, including the plugin PHP file, CSS, admin icon assets, and plugin README.
 
 ## Installation
 
-1. Download the plugin ZIP from the latest release.
-2. Log in to **WordPress Admin**.
-3. Go to **Plugins → Add Plugin**.
-4. Click **Upload Plugin**.
-5. Choose the RavenHawk Category Showcase ZIP.
-6. Click **Install Now**.
-7. Activate the plugin.
-8. Open **RavenHawkTech → Category Showcase** in WordPress Admin.
-
----
+1. In WordPress Admin, go to **Plugins → Add Plugin**.
+2. Click **Upload Plugin**.
+3. Choose the RavenHawk Category Showcase package.
+4. Click **Install Now**.
+5. Activate the plugin.
+6. Open **RavenHawkTech → Category Showcase** in WordPress Admin.
 
 ## RavenHawkTech
 
 Website: https://ravenhawktech.com
-
----
 
 ## License
 
