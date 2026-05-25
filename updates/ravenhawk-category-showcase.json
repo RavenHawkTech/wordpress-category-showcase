@@ -4,7 +4,7 @@
   "version": "2.1.0",
   "build": "editable-colors",
   "release_title": "RavenHawk Category Showcase v2.1.0",
-  "download_url": "https://github.com/RavenHawkTech/wordpress-category-showcase/releases/download/ravenhawk-category-showcase-v2.1.0/ravenhawk-category-showcase-2.1.0-editable-colors.zip",
+  "download_url": "https://github.com/RavenHawkTech/wordpress-category-showcase/releases/download/ravenhawk-category-showcase-v2.1.0/ravenhawk-category-showcase.zip",
   "homepage": "https://github.com/RavenHawkTech/wordpress-category-showcase",
   "requires": "6.2",
   "tested": "6.8",
